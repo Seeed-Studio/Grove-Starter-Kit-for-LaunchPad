@@ -41,5 +41,5 @@ To use Energia you will need to read the [getting started](https://github.com/en
 
 ![Guide](http://www.seeedstudio.com/wiki/images/thumb/7/74/IDE.jpg/472px-IDE.jpg)
 
-
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove-Starter-Kit-for-LaunchPad)](https://github.com/igrigorik/ga-beacon)
  
