@@ -20,7 +20,7 @@
 */
 
 /* Macro Define */
-#define BUZZER_PIN               39            /* sig pin of the buzzer */
+#define BUZZER_PIN               19            /* sig pin of the buzzer */
 
 int length = 15;         /* the number of notes */
 char notes[] = "ccggaagffeeddc ";
